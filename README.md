@@ -11,6 +11,13 @@ This package is only a link between and [paknahad/jsonapi-bundle][1] [andreas-gl
 composer require mnugter/jsonapi-rql-finder-bundle
 ```
 
+Add the line below to config/bundles.php
+
+```
+Krilo89\JsonApiRqlFinderBundle\Krilo89JsonApiRqlFilterBundle::class => ['all' => true],
+```
+
+
 # Usage
 
 Include the RQL filter in the query under rql=
