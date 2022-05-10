@@ -1,6 +1,6 @@
 <?php
 
-namespace Mnugter\JsonApiRqlFinderBundle\Finder;
+namespace Krilo89\JsonApiRqlFinderBundle\Finder;
 
 use AndreasGlaser\DoctrineRql\Factory\ORMVisitorFactory;
 use Doctrine\ORM\QueryBuilder;
