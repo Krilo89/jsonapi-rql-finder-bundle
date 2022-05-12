@@ -24,6 +24,6 @@
         "sort-packages": true
     },
     "autoload": {
-        "psr-4": { "Mnugter\\JsonApiRqlFinderBundle\\": "src/" }
+        "psr-4": { "Krilo89\\JsonApiRqlFinderBundle\\": "src/" }
     }
 }

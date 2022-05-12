@@ -7,8 +7,9 @@
     <services>
         <defaults autowire="true" autoconfigure="true" public="false" />
 
-        <service class="Mnugter\JsonApiRqlFinderBundle\Finder\Rql" id="mnugter_json_api_rql_finder.finder.rql">
+        <service class="Krilo89\JsonApiRqlFinderBundle\Finder\Rql" id="krilo89_json_api_rql_finder.finder.rql">
             <tag name="paknahad.json_api.finder" />
+            <argument type="service" id="Paknahad\JsonApiBundle\Helper\Sorter" />
         </service>
     </services>
 </container>

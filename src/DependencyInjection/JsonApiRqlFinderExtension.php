@@ -1,6 +1,6 @@
 <?php
 
-namespace Mnugter\JsonApiRqlFinderBundle\DependencyInjection;
+namespace Krilo89\JsonApiRqlFinderBundle\DependencyInjection;
 
 use Symfony\Component\Config\FileLocator;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
