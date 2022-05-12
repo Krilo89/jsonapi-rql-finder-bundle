@@ -1,5 +1,5 @@
-![https://packagist.org/packages/mnugter/jsonapi-rql-finder-bundle](https://img.shields.io/packagist/dt/mnugter/jsonapi-rql-finder-bundle)
-![https://github.com/mnugter/jsonapi-rql-finder-bundle](https://img.shields.io/github/license/mnugter/jsonapi-rql-finder-bundle)
+![https://packagist.org/packages/krilo89/jsonapi-rql-finder-bundle](https://img.shields.io/packagist/dt/krilo89/jsonapi-rql-finder-bundle)
+![https://github.com/krilo89/jsonapi-rql-finder-bundle](https://img.shields.io/github/license/krilo89/jsonapi-rql-finder-bundle)
 # jsonapi-bundle-rql-finder
 An RQL Finder for [paknahad/jsonapi-bundle][1].
 
@@ -8,7 +8,7 @@ This package is only a link between and [paknahad/jsonapi-bundle][1] [andreas-gl
 # Installation
 
 ```
-composer require mnugter/jsonapi-rql-finder-bundle
+composer require krilo89/jsonapi-rql-finder-bundle
 ```
 
 Add the line below to config/bundles.php
